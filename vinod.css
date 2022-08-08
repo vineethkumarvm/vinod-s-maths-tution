@@ -1,0 +1,126 @@
+*{
+    padding: 3px;
+    margin: 10px;
+}
+.dflix{
+    display: flex;
+}
+body{
+    background-color: rgb(233, 177, 186);
+}
+nav{
+    padding:50px;
+
+}
+h1{
+    font-size: 64px;
+    color: rgb(180, 150, 207);
+}
+.spotcontant{
+    padding-top: 150px;
+    width: 40%;
+
+}
+.spotimg{
+width: 100%;
+}
+.spotimg img{
+    width: 100px;
+}
+.phoneicon{
+    padding: 30px;
+    border-radius: 50px;
+    background-color: deeppink;
+
+}
+
+.shareicon{
+    padding: 30px;
+    border-radius: 50px;
+    background-color: antiquewhite;
+}
+.box1{
+    text-align: left;
+    margin: 75px;
+    padding-left:100px;
+    display: flex;
+    justify-content: center;
+}
+.coml{
+    padding: 50px;
+    margin: 16px;
+    display: flex;
+}
+.small{
+    margin: 75px;
+    background-color: cyan;
+    border-radius: 10px;
+    max-width: 500px;
+    height: 350px;
+    border: 1px solid black;
+
+}
+B{
+    display: flex;
+}
+
+.T{
+    background-color: aliceblue;
+    border-radius: 25px;
+    border: 1px solid black;
+    margin: 5px;
+
+}
+.image{
+    margin: auto;
+    text-align: center;
+
+}
+.img h2{
+    font-size: 34px;
+    margin: 45px;
+
+}
+.why{
+display: flex;
+margin: 20px;
+padding: auto;
+}
+.text{
+    margin: auto;
+}
+
+
+#data{
+    display: flex;
+    margin: 10% auto;
+    width: 670px;
+    padding: 10px;
+    border: 1px solid blue;
+    box-shadow: 1px 1px 1px 1px yellow;
+    border-radius: 10px;
+    position:500px top right;
+
+}
+.D1{
+    color: aqua;
+    background-color: chocolate;
+    height: 250px;
+    padding: 2px;
+    width: 450px;
+    border: solid blue;
+
+}
+.no{
+    display: flex;
+
+}
+.mail{
+    display: flex;
+
+}
+#data img{
+    width: 245px;
+    height: 254px;
+    margin: auto;
+}
